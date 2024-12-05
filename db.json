@@ -168,5 +168,33 @@
       "https://www.klasier.com/wp-content/uploads/2024/11/IMG-20241109-WA0074.jpg"
     ]
   }
-]
+],
+  "categories": [
+  {
+    "id": 1,
+    "name": "Kolyeler"
+  },
+  {
+    "id": 2,
+    "name": "Küpeler"
+  },
+  {
+    "id": 3,
+    "name": "Yüzükler"
+  },
+  {
+    "id": 4,
+    "name": "Aksesuarlar"
+  },
+  {
+    "id": 5,
+    "name": "Bileklikler"
+  }
+], 
+  "users": [  {
+    "id": 1,
+    "username": "gadirovh",
+    "email": "huseynelig@gmail.com",
+    "password": "aslan1133"
+  }] 
 }
